@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **marketing (that's my actual job)**
 
-- ⚡ Fun fact **I have too many books**
+- ⚡ Fun fact **I have too many books and haven't read half of it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
