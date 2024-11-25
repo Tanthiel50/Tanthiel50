@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cécile</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate PHP/React developer from France</h3>
 
 - 🔭 I’m currently working on **anything that can make me progress**
 
-- 🌱 I’m currently learning **fullstack**
-
-- 💬 Ask me about **marketing (that's my actual job)**
+- 💬 Ask me about **marketing (that's my former job)**
 
 - ⚡ Fun fact **I have too many books and haven't read half of it**
 
